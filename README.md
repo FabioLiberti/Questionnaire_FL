@@ -4,7 +4,12 @@
 
 Progetto di ricerca condotto dall'**Ospedale Pediatrico Bambino Gesù (OPBG)** in collaborazione con l'**Università delle Camere di Commercio Italiane**, finalizzato all'analisi dell'adozione del Federated Learning nel sistema sanitario italiano.
 
-![Diagram Questionnaire OPBGFL](Diagram_QuestionnaireOPBGFL.png)
+<table>
+  <tr>
+    <td><img src="img/Diagram_QuestionnaireOPBGFL.png" alt="Diagram Questionnaire OPBGFL" width="500"/></td>
+    <td><img src="img/Infographic_QuestionnaireOPBGFL.png" alt="Infographic Questionnaire OPBGFL" width="500"/></td>
+  </tr>
+</table>
 
 ---
 
