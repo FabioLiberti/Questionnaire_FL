@@ -23,6 +23,29 @@ Progetto di ricerca condotto dall'**Ospedale Pediatrico Bambino Gesù (OPBG)** i
 
 ---
 
+## Research Questions
+
+| RQ | Domanda di Ricerca |
+|----|-------------------|
+| **RQ1** | Identificare le principali barriere all'adozione del FL nel contesto sanitario italiano |
+| **RQ2** | Analizzare il fenomeno della limitata consapevolezza e prioritizzazione del FL |
+| **RQ3** | Sviluppare un framework preliminare per guidare l'implementazione del FL nelle strutture sanitarie italiane |
+| **RQ4** | Proporre strategie implementative concrete per superare gli ostacoli identificati |
+| **RQ5** | Definire una roadmap per l'adozione progressiva del FL nel sistema sanitario nazionale |
+| **RQ6** | Presentare iniziative complementari per la promozione del FL in ambito sanitario |
+
+Le Research Questions vengono investigate attraverso il questionario lungo **5 dimensioni di barriere**:
+
+| Dimensione | Aspetti Indagati |
+|------------|-----------------|
+| **Tecnologiche** | Complessità infrastrutturale, integrazione con sistemi legacy, scalabilità |
+| **Organizzative** | Resistenza al cambiamento, mancanza di competenze, processi decisionali complessi |
+| **Normative e Compliance** | Complessità GDPR, requisiti privacy, gestione consenso pazienti |
+| **Economiche** | Costi di implementazione, incertezza ROI, budget limitati |
+| **Culturali** | Consapevolezza limitata del FL, resistenza alla condivisione dati |
+
+---
+
 ## Metodologia
 
 - **Systematic Literature Review (SLR):** 42 paper peer-reviewed analizzati con metodologia PRISMA
