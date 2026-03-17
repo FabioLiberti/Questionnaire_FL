@@ -1,6 +1,7 @@
 *
 !README.md
 !.gitignore
-!Diagram_QuestionnaireOPBGFL.png
+!img/
+!img/**
 !Questionario_OPBG_Adozione_FL/
 !Questionario_OPBG_Adozione_FL/**
