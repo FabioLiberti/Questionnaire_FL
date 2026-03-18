@@ -164,6 +164,15 @@ QUESTIONARIO_OPBGFL/
 
 ---
 
+## Analytics
+
+| Analisi | Descrizione | Stato |
+|---------|-------------|-------|
+| [Analytics Inviti](ANALYTICS_INVITI.md) | Analisi delle risposte ricevute agli inviti inviati ai referenti ospedalieri | Completata |
+| Analytics Questionario | Analisi delle risposte alle domande del questionario | Da avviare |
+
+---
+
 ## Stato di Avanzamento
 
 ### Completato
