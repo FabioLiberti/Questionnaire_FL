@@ -164,6 +164,15 @@ QUESTIONARIO_OPBGFL/
 
 ---
 
+## Pre-Analytics (Dashboard Power BI)
+
+| Dashboard | Descrizione | Schede |
+|-----------|-------------|--------|
+| [Pre-Analytics Articoli Scientifici](PRE_ANALYTICS_PAPERS.md) | Analisi dei 38 articoli scientifici: catalogo, timeline, FL Map, università, geolocalizzazione | 7 |
+| [Pre-Analytics Ospedali v1 + v2](PRE_ANALYTICS_OSPEDALI.md) | Analisi del database ospedali italiani: campione (31), database nazionale (1.390), geolocalizzazione, questionario | 4 + 7 |
+
+---
+
 ## Analytics
 
 | Analisi | Descrizione | Stato |
