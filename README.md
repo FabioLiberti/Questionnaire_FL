@@ -169,7 +169,7 @@ QUESTIONARIO_OPBGFL/
 | Analisi | Descrizione | Stato |
 |---------|-------------|-------|
 | [Analytics Inviti](ANALYTICS_INVITI.md) | Analisi delle risposte ricevute agli inviti inviati ai referenti ospedalieri | Completata |
-| Analytics Questionario | Analisi delle risposte alle domande del questionario | Da avviare |
+| [Analytics Questionario](ANALYTICS_QUESTIONARIO.md) | Analisi della struttura del questionario (34 domande, 3 sezioni, 16 temi) | Completata |
 
 ---
 
